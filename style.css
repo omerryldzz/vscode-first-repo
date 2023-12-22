@@ -1,7 +1,15 @@
 
-body{
+body {
   color: white;
 }
-p{
+p {
   color: red;
+}
+
+h1 {
+    color:aqua;
+}
+
+span {
+    color: blue
 }
